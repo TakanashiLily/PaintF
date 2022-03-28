@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Paint.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PaintDoc.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PaintView.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CGraphicObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CTextObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CShapeObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CTriangleObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircleObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PROPPAGE_BORDER.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PROPPAGE_COLOR.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PROPPAGE_FONT.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Paint.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PaintDoc.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PaintView.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="CGraphicObj.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="CTextObj.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="CShapeObj.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="CTriangleObj.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircleObj.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PROPPAGE_BORDER.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PROPPAGE_COLOR.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PROPPAGE_FONT.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Paint.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Paint.rc2">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="POINTER.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\beam_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\cross_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\move_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\size1_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\size2_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\size3_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\size4_rm.cur">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="res\Cursors\aero_link_il.cur">
+      <Filter>資源檔</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\PaintDoc.ico">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\Paint.ico">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\bmp00002.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="res\bmp00003.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

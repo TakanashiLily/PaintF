@@ -1,0 +1,123 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 產生的 Include 檔案。
+// 由 Paint.rc 使用
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDS_FCOLOR                      101
+#define IDS_Modified                    102
+#define IDD_PROPPAGE_BORDER             102
+#define IDS_LnColNum                    103
+#define IDD_PROPPAGE_COLOR              103
+#define IDC_POINTER                     104
+#define IDD_PROPPAGE_FONT               104
+#define IDC_POINTER_COPY                105
+#define IDC_NODROP                      106
+#define IDR_MAINFRAME                   128
+#define IDR_PaintTYPE                   130
+#define IDS_Color                       312
+#define IDS_Shape                       313
+#define IDC_CURSOR1                     330
+#define IDC_CROSS_M                     331
+#define IDC_CURSOR3                     332
+#define IDC_CURSOR4                     333
+#define IDC_CURSOR5                     334
+#define IDC_size3_rm                    335
+#define IDC_size4_rm                    336
+#define IDC_123                         337
+#define IDR_POPMENU                     338
+#define IDD_DIALOG1                     342
+#define IDB_BLACK                       348
+#define IDB_RED                         349
+#define IDB_BLUE                        350
+#define IDB_BITMAP1                     351
+#define IDB_LN                          351
+#define IDB_BITMAP2                     352
+#define IDB_DTLN                        352
+#define IDB_BITMAP3                     353
+#define IDB_DT                          353
+#define IDC_COMBO1                      1001
+#define IDC_FONTTYPE                    1001
+#define IDC_CHECK1                      1009
+#define IDC_BOLD                        1009
+#define IDC_CHECK2                      1010
+#define IDC_ITALIC                      1010
+#define IDC_CHECK3                      1011
+#define IDC_UNDERLINE                   1011
+#define IDC_BGCOLOR                     1015
+#define IDC_BDLINETYPE                  1015
+#define IDC_FORECOLOR                   1016
+#define IDC_LNCOLOR                     1016
+#define IDC_SBC                         1018
+#define IDC_LNCOLOR3                    1019
+#define ID_GRAPHIC_TEXT                 32771
+#define ID_GRAPHIC_POLYGON              32772
+#define ID_POLYGON_TRIANGLE             32773
+#define ID_POLYGON_ELLIPSE              32774
+#define ID_GRAPHIC_LINETYPE             32775
+#define ID_LINECOLOR_BLACK              32776
+#define ID_LINECOLOR_BLUE               32777
+#define ID_LINECOLOR_RED                32778
+#define IDM_Black                       32779
+#define IDM_Blue                        32780
+#define IDM_Red                         32781
+#define ID_CURNORMAL                    32784
+#define ID_BUTTON32786                  32786
+#define ID_MOVE                         32786
+#define ID_BUTTON32788                  32788
+#define ID_                             32788
+#define ID_TEXT                         32788
+#define ID_BUTTON32795                  32795
+#define ID_ZOOMIN                       32795
+#define ID_BUTTON32796                  32796
+#define ID_ZOOMOUT                      32796
+#define ID__BLUE                        32797
+#define ID__BLUE32798                   32798
+#define ID__RED                         32799
+#define ID_Menu                         32800
+#define ID__123                         32801
+#define ID__456                         32802
+#define ID__124                         32803
+#define ID__457                         32804
+#define ID__BLACK                       32805
+#define ID__BLUE32806                   32806
+#define ID__RED32807                    32807
+#define ID_GRAPHIC_FILLCOLOR            32808
+#define ID_FILLCOLOR_BLACK              32809
+#define ID_FILLCOLOR_BLUE               32810
+#define ID_FILLCOLOR_RED                32811
+#define ID_LINECOLOR_BLACK32812         32812
+#define ID_LINECOLOR_BLUE32813          32813
+#define ID_LINECOLOR_RED32814           32814
+#define ID_FILLCOLOR_BLACK32815         32815
+#define ID_FILLCOLOR_BLUE32816          32816
+#define ID_FILLCOLOR_RED32817           32817
+#define IDM_BlackF                      32818
+#define IDM_BlueF                       32819
+#define IDM_RedF                        32820
+#define ID__PROPERTY                    32821
+#define ID_GRAPHIC_123                  32822
+#define ID_PROPERTY                     32823
+#define ID__1231                        32824
+#define ID__BK                          32825
+#define ID_BK                           32826
+#define ID__3213                        32827
+#define ID__2136513                     32828
+#define ID__465310                      32829
+#define ID_GRAPHIC_LINETYPE32830        32830
+#define ID_Menu32831                    32831
+#define ID_LINETYPE_DOTLINE             32832
+#define ID_LINETYPE_DOT                 32833
+#define ID_LINETYPE_LINE                32834
+#define ID_LINETYPE_DASHLINE            32835
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        354
+#define _APS_NEXT_COMMAND_VALUE         32836
+#define _APS_NEXT_CONTROL_VALUE         1024
+#define _APS_NEXT_SYMED_VALUE           316
+#endif
+#endif
